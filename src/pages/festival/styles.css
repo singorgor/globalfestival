@@ -1,0 +1,22 @@
+.festival-detail-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.festival-detail-container h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* 自定义样式可以在这里添加 */
+
+/* 添加图片加载过渡效果 */
+.festival-image {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.festival-image:hover {
+  opacity: 0.9;
+} 
