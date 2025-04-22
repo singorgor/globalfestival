@@ -11,8 +11,36 @@ export const holidays: Holiday[] = [
     name: '春节',
     date: '农历正月初一',
     country: '中国',
-    description: '中国最重要的传统节日，象征着新的一年的开始。人们会贴春联、放鞭炮、吃团圆饭，还有舞龙舞狮等庆祝活动。',
+    description: '春节是中国最重要的传统节日，象征着新的一年的开始。人们会贴春联、放鞭炮、吃团圆饭，还有舞龙舞狮等庆祝活动。这个节日承载着中国人对家庭团圆的深厚情感。',
     image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+  },
+  {
+    name: '中秋节',
+    date: '农历八月十五',
+    country: '中国',
+    description: '中秋节是中国传统的团圆节日，象征着家人团聚。人们会赏月、吃月饼、猜灯谜。传说嫦娥奔月的故事更为这个节日增添了浪漫色彩。',
+    image: 'https://images.pexels.com/photos/6147708/pexels-photo-6147708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+  },
+  {
+    name: '端午节',
+    date: '农历五月初五',
+    country: '中国',
+    description: '端午节是纪念屈原的传统节日，人们会吃粽子、赛龙舟。这一天人们还会佩戴香囊、艾草，以驱邪避灾，祈求平安健康。',
+    image: 'https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+  },
+  {
+    name: '元宵节',
+    date: '农历正月十五',
+    country: '中国',
+    description: '元宵节是春节后的第一个重要节日，又称上元节。这天人们会赏花灯、吃元宵、猜灯谜，是一个充满欢乐的节日。',
+    image: 'https://images.pexels.com/photos/7789846/pexels-photo-7789846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+  },
+  {
+    name: '清明节',
+    date: '公历4月5日前后',
+    country: '中国',
+    description: '清明节是中国传统的祭祖节日，也是踏青郊游的好时节。人们会扫墓祭祖、放风筝，表达对先人的追思之情。',
+    image: 'https://images.pexels.com/photos/1891882/pexels-photo-1891882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
   },
   {
     name: '感恩节',
